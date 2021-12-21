@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Robot Indoor Navigation with Architectural Maps
+title: Shumin's Personal Website
 email: shumin@seas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  2021 FALL Independent Study at University of Pennsylvania
-baseurl: "/shumin_independent_study_2021.github.io" # the subpath of your site, e.g. /blog
+  Sharing my work and life!
+baseurl: "/shumin_independent_study_2021.github.io/" # the subpath of your site, e.g. /blog
 url: "https://github.com/Shumin326/shumin_independent_study_2021.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  Shumin326
