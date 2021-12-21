@@ -22,8 +22,8 @@ title: Shumin Yuan
 email: shumin@seas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Sharing my work and life!
-baseurl: "/shumin_independent_study_2021.github.io/" # the subpath of your site, e.g. /blog
-url: "https://github.com/Shumin326/shumin_independent_study_2021.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/shumin.github.io/" # the subpath of your site, e.g. /blog
+url: "https://github.com/Shumin326/shumin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 twitter_username: jekyllrb
 github_username:  Shumin326
